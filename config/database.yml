@@ -59,11 +59,4 @@ test:
   password: adil1986
   timeout: 5000
 
-  
-  production:
-  adapter: postgresql
-  encoding: utf8
-  database: postgress-app-test
-  pool: 5
-  username: adilnm
-  password: adil1986
+
